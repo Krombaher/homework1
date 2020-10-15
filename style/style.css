@@ -8,9 +8,6 @@ a {
 li {
   list-style: none;
 }
-body {
-  background: #3f4049;
-}
 header {
   width: 100%;
   background: white;
@@ -39,31 +36,39 @@ nav {
   width: 65%;
   margin: 0 auto;
 }
-.desing h1 {
+main {
+  background: #3f4049;
+}
+.heading h1 {
+  padding-top: 100px;
   color: white;
   font-size: 55px;
   text-align: center;
-  margin-top: 160px;
+  
 }
-.button {
-  margin: 100px;
+.buttons {
   text-align: center;
-  margin-top: 60px;
+  margin-top: 100px;
 }
-.button a {
-  text-decoration: none;
-  font-size: 20px;
-  background-color: #fc5f45;
-  color: white;
+.btn {
+  background: #fc5f45;
+  padding: 10px 30px;
+  font-size: 16px;
   border-radius: 100px;
-  padding: 15px 40px;
+  color: white;
+  text-transform: uppercase;
 }
-.item {
+.features {
+  padding: 75px;
   display: flex;
   justify-content: center;
   text-align: center;
   text-transform: uppercase; 
+  margin-left: 30px;
 }
-.img {
-  padding: 30px; 
+.benefits {
+  padding: 20px; 
+}
+.benefits h4 {
+  padding: 20px;
 }
