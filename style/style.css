@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+header {
+  width: 100%;
+  background: white;
+  display: flex;
+}
+.header_logo {
+  font-weight: 500;
+  font-size: 32px;
+  padding: 30px 0 20px 0;
+  margin-left: 20%;
+}
+.logo {
+  color: red;
+}
+nav {
+  padding: 42px 0 20px 0;
+  font-size: 14px;
+  font-weight: 700;
+  margin-left: 16%;
+}
+.topnav a {
+  color: black;
+  padding: 12px;
+}
+.wrapper {
+  width: 65%;
+  margin: 0 auto;
+}
+main {
+  background: #3f4049;
+}
+.heading h1 {
+  padding-top: 100px;
+  color: white;
+  font-size: 55px;
+  text-align: center;
+  
+}
+.buttons {
+  text-align: center;
+  margin-top: 100px;
+}
+.btn {
+  background: #fc5f45;
+  padding: 10px 30px;
+  font-size: 16px;
+  border-radius: 100px;
+  color: white;
+  text-transform: uppercase;
+}
+.features {
+  padding: 75px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  text-transform: uppercase; 
+  margin-left: 30px;
+}
+.benefits {
+  padding: 20px; 
+}
+.benefits h4 {
+  padding: 20px;
+}
