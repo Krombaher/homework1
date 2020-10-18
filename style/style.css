@@ -218,6 +218,150 @@ nav {
   border-bottom: 3px solid #feb960;
 }
 
+.video-bg {
+  background: #3f4049;
+  text-align: center;
+  padding: 140px 0 140px 0;
+}
+
+.video-bg i {
+  padding: 16px 0 16px 0;
+}
+
+.video-bg h1 {
+  color: white;
+  font-size: 30px;
+}
+
+.video-bg h4 {
+  color: white;
+  font-size: 15px;
+}
+
+.portfolio {
+  text-align: center;
+  padding: 150px 0 150px 0;
+}
+
+.portfolio h1 {
+  font-size: 50px;
+  padding: 20px;
+}
+
+.portfolio p {
+  font-size: 18px;
+}
+
+.hover {
+  width: 360px;
+  height: 300px;
+  border: 3px solid #fc5f45;
+}
+
+.row {
+  padding: 40px;
+}
+
+.row img {
+  padding: 10px;
+}
+
+.team {
+  background: #f7f7f7;
+  text-align: center;
+  padding: 140px 0 140px 0;
+}
+
+.team_members {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.members1 {
+  background: white;
+  width: 263px;
+  height: 350px;
+  text-align: center;
+  margin: 12px;
+  border-bottom: 3px solid #fc5f45;
+}
+
+.members2 {
+  background: white;
+  width: 263px;
+  height: 350px;
+  text-align: center;
+  margin: 12px;
+  border-bottom: 3px solid #38c695;
+}
+
+.members3 {
+  background: white;
+  width: 263px;
+  height: 350px;
+  text-align: center;
+  margin: 12px;
+  border-bottom: 3px solid #b27cf5;
+}
+
+.members4 {
+  background: white;
+  width: 263px;
+  height: 350px;
+  text-align: center;
+  margin: 12px;
+  border-bottom: 3px solid #feb960;
+}
+
+.team h4 {
+  color: #616161;
+  font-size: 18px;
+}
+
+.team h1 {
+  font-size: 50px;
+}
+
+.team_members p {
+  color: #616161;
+  font-size: 13px;
+}
+
+.team_members h4 {
+  font-size: 18px;
+}
+
+.frame_team {
+  background: linear-gradient(#cacaca, #d9aca5);
+  width: 260px;
+  height: 270px;
+  border-bottom: 1px solid white;
+}
+
+.member_details {
+  text-align: left;
+  background: white;
+  height: 350px;
+  width: 1120px;
+  margin-left: 200px;
+}
+.member_details img {
+  position: absolute;
+  margin-left: 800px;
+  margin-top: -160px; 
+}
+
+.member_details h1 {
+  padding: 25px 50px;
+  font-size: 20px;
+}
+.member_details p {
+  padding: 30px;
+}
+
+
+
 
 
 
